@@ -86,9 +86,9 @@ Since then I pushed **630**+ commits, opened **12**+ issues, submitted **8**+ pu
 -  Created the design for Codelabz(Opensource) and implementing it using react at Google Summer of Code. [here](https://www.figma.com/file/pfl5GvmMvNOi34bdcPAYt5/Codelabz-Prototype?node-id=0%3A1)!
  
  Check out the site that are developed by me
-- Alamkul- [here](http://alamkul.in/)!
-- Appbeans- My own Webdesign studio [here](https://appbeans.netlify.app/)!
-- Ezak Pharma [here](https://ezak.netlify.app/)!
+- Alamkul - Coaching Classes for IIT JEE Main &amp; Advanced and NEET / Medical [here](http://alamkul.in/)!
+- Appbeans - My own Webdesign studio [here](https://appbeans.netlify.app/)!
+- Ezak Pharma - Online Pharmacy store [here](https://ezak.netlify.app/)!
 
 #
 
