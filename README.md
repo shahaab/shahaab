@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **shahaab/shahaab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -30,7 +31,7 @@ Since then I pushed **630**+ commits, opened **12**+ issues, submitted **8**+ pu
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with React, Express, Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning nodejs.
+- 🚀 &nbsp; I’m currently learning Nodejs.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shahaab).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/shahaab-manzar/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
