@@ -79,8 +79,20 @@ Since then I pushed **630**+ commits, opened **12**+ issues, submitted **8**+ pu
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shahaab&hide_border=true" />
 </details>
 
+
+### My Works:
+ I Design and Create Architecture to Development.
+-  Design Alamkul.in using Figma [here](https://www.behance.net/gallery/129696375/Alamkul-Website)!
+-  Created the design for Codelabz(Opensource) and implementing it using react at Google Summer of Code. [here](https://www.figma.com/file/pfl5GvmMvNOi34bdcPAYt5/Codelabz-Prototype?node-id=0%3A1)!
+ 
+ Check out the site that are developed by me
+- Alamkul- [here](http://alamkul.in/)!
+- Appbeans- My own Webdesign studio [here](https://appbeans.netlify.app/)!
+- Ezak Pharma [here](https://ezak.netlify.app/)!
+
+#
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
-
-</div>
+  </div>
