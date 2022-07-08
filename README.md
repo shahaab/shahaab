@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shahaab-manzar/)
 
 ### Glad to see you here! &nbsp; 
-I'm currenly a developer at Google Summer of Code 😎 |⚡ Actively Searching for Summer'22 Internship ⚡|. I'm Adept at using Javascript, ReactJS, and other programming languages to produce clean code ✨. Well Organized and collaborative team player with strong
+I'm currently a developer at Google Summer of Code 😎 |⚡ Actively Searching for a Fall'22 Internship ⚡|. I'm Adept at using Javascript, ReactJS, and other programming languages to produce clean code ✨. Well Organized and collaborative team player with strong
 conversation and analytical abilities 💡. Dedicated to improving skills through hands-on learning and development work 🕸️. Proficient in Web development and Data structures and algorithm 🤓. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
 
 Joined Github **4** years ago.
