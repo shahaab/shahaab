@@ -26,7 +26,7 @@ conversation and analytical abilities 💡. Dedicated to improving skills throug
 
 Joined Github **4** years ago.
 
-Since then I pushed **630**+ commits, opened **12**+ issues, submitted **13**+ pull requests.
+Since then I pushed **630**+ commits, opened **15**+ issues, Merged **25**+ pull requests.
 
 ### Talking about Personal Stuffs:
 
