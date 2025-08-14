@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Glad to see you here! &nbsp; 
 I’m Shahaab — a backend engineer with ~2 years of experience, mostly building infra-heavy stuff at Phyllo. I’ve worked on distributed systems, data pipelines, and integrating LLMs into production flows.
 
-One of the bigger things I led recently was a zero-downtime migration of ~300k critical records for our Brand Safety product (which now contributes ~$1M in ARR). It involved a dual-queue system with RabbitMQ to prevent race conditions, plus a bunch of PostgreSQL tuning. I also handled stuff like vendor-specific rate limits by separating consumers, and fixed a few gnarly bugs — e.g. a TikTok job that used to take over an hour, or a Spider crashloop due to a rogue SQL LIMIT 1.
+One of the bigger things I led recently was a zero-downtime migration of millions of critical records for our Brand Safety product (which now contributes Millions in ARR). It involved a dual-queue system with RabbitMQ to prevent race conditions, plus a bunch of PostgreSQL tuning. I also handled stuff like vendor-specific rate limits by separating consumers, and fixed a few gnarly bugs — e.g. a TikTok job that used to take over an hour, or a Spider crashloop due to a rogue SQL LIMIT 1.
 
 Joined Github **4** years ago.
 
