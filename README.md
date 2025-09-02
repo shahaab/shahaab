@@ -37,7 +37,7 @@ Since then I pushed **630**+ commits, opened **15**+ issues, Merged **25**+ pull
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/shahaab-manzar/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: mshahaabmanzar@gmail.com.
-- 📝 &nbsp; Checkout my [Resume]([https://bit.ly/shahaab_manzar]([https://drive.google.com/drive/folders/1qXBhvxyuHUjXZdnQ_mlVq-wF8zH7J4qP](https://drive.google.com/file/d/1ccYUjKqFXaNc1YQajkIfYFeXnPywXrJC/view?usp=sharing)]).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/drive/folders/1qXBhvxyuHUjXZdnQ_mlVq-wF8zH7J4qP](https://drive.google.com/file/d/1ccYUjKqFXaNc1YQajkIfYFeXnPywXrJC/view?usp=sharing)).
 
 ### My Absolute Favorites:
 
